@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Datos del Contacto</string>
+    <string name="label_nombre">Nombre Completo</string>
+    <string name="label_tel">Teléfono</string>
+    <string name="label_email">Email</string>
+    <string name="label_descripcion">Descripción del contacto</string>
+    <string name="texto_boton">Siguiente</string>
+    <string name="texto_titulo">Confirmar Datos</string>
+    <string name="boton_editar">Editar datos</string>
+    <string name="parametro_nombre">Nombre</string>
+    <string name="parametro_telefono">Telefono</string>
+    <string name="parametro_fecha">Fecha</string>
+    <string name="parametro_email">Email</string>
+    <string name="parametro_descripcion">Descripcion</string>
+</resources>
